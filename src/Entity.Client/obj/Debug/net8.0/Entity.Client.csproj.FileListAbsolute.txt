@@ -1,0 +1,14 @@
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\bin\Debug\net8.0\Entity.Client.exe
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\bin\Debug\net8.0\Entity.Client.deps.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\bin\Debug\net8.0\Entity.Client.runtimeconfig.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\bin\Debug\net8.0\Entity.Client.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\bin\Debug\net8.0\Entity.Client.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.AssemblyInfoInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.AssemblyInfo.cs
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\refint\Entity.Client.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\Entity.Client.genruntimeconfig.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Client\obj\Debug\net8.0\ref\Entity.Client.dll

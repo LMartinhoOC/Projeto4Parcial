@@ -1,0 +1,11 @@
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\bin\Debug\net8.0\Entity.Entidades.deps.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\bin\Debug\net8.0\Entity.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\bin\Debug\net8.0\Entity.Entidades.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\Entity.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\Entity.Entidades.AssemblyInfoInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\Entity.Entidades.AssemblyInfo.cs
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\Entity.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\Entity.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\refint\Entity.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\Entity.Entidades.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Entidades\obj\Debug\net8.0\ref\Entity.Entidades.dll

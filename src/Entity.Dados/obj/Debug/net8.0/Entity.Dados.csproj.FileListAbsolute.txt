@@ -1,0 +1,17 @@
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\bin\Debug\net8.0\Entity.Dados.deps.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\bin\Debug\net8.0\Entity.Dados.runtimeconfig.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\bin\Debug\net8.0\Entity.Dados.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\bin\Debug\net8.0\Entity.Dados.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\bin\Debug\net8.0\Entity.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\bin\Debug\net8.0\Entity.Entidades.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.csproj.AssemblyReference.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.AssemblyInfoInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.AssemblyInfo.cs
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.csproj.CopyComplete
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\refint\Entity.Dados.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\Entity.Dados.genruntimeconfig.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto4_Luiz\src\Entity.Dados\obj\Debug\net8.0\ref\Entity.Dados.dll
