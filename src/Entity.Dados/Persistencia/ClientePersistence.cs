@@ -39,13 +39,19 @@ namespace Entity.Dados.Persistencia
 
         public Cliente ObterClientePorId(int id)
         {
-            return this._contexto.Clientes
-                .Where(c => c.Id == id).FirstOrDefault();
+            return this._contexto
+                .Clientes
+                .AsNoTracking()
+                .Where(c => c.Id == id)
+                .FirstOrDefault();
         }
 
         public List<Cliente> ObterClientes()
         {
-            return this._contexto.Clientes.ToList();
+            return this._contexto
+                .Clientes
+                .AsNoTracking()
+                .ToList();
         }
     }
 }

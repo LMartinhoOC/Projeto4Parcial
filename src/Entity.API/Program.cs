@@ -1,4 +1,6 @@
 using Entity.Dados.Context;
+using Entity.Dados.Interface;
+using Entity.Dados.Persistencia;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -76,6 +78,7 @@ builder.Services.AddAuthorization();
 
 //injeção de dependência
 builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
+builder.Services.AddScoped<IClientePersistence, ClientePersistence>();
 
 
 var app = builder.Build();
